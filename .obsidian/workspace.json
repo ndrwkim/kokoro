@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b05997e49b00f409",
+        "id": "edd560a6fa0ccb3d",
         "type": "tabs",
         "children": [
           {
-            "id": "44b1de61cf6453c3",
+            "id": "ba45c27b7c69d700",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -162,10 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b5b614482dddc24",
+  "active": "ba45c27b7c69d700",
   "lastOpenFiles": [
-    "한국어/Untitled",
+    "README.md",
     "Untitled.md",
+    "LICENSE",
+    "한국어/Untitled",
     "한국어",
     "Welcome.md",
     "create a link.md"
